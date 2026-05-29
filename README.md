@@ -10,7 +10,7 @@
 ![DeepSeek](https://img.shields.io/badge/API-DeepSeek%20only-blue)
 ![Closed Source](https://img.shields.io/badge/source-closed--source-lightgrey)
 
-[![Demo video](https://img.youtube.com/vi/34Jtlg3nM2M/maxresdefault.jpg)](https://youtu.be/34Jtlg3nM2M)
+[![Demo video](https://img.youtube.com/vi/34Jtlg3nM2M/hqdefault.jpg)](https://youtu.be/34Jtlg3nM2M)
 
 **Demo video / 演示视频:**  
 https://youtu.be/34Jtlg3nM2M
