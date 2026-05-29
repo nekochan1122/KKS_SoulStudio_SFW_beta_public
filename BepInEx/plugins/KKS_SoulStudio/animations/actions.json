@@ -1,0 +1,2165 @@
+{
+  "version": 2,
+  "actions": [
+    {
+      "id": "none",
+      "label": "????",
+      "description": "?????????",
+      "cooldown_turns": 0,
+      "levels": [],
+      "variants": []
+    },
+    {
+      "id": "idle",
+      "label": "??",
+      "description": "??????????????????????????",
+      "cooldown_turns": 2,
+      "levels": [
+        {
+          "level": 1,
+          "candidates": [
+            {
+              "group": 0,
+              "category": 4,
+              "no": 0,
+              "name": "Idle 1"
+            },
+            {
+              "group": 0,
+              "category": 4,
+              "no": 1,
+              "name": "Idle 2"
+            },
+            {
+              "group": 0,
+              "category": 4,
+              "no": 2,
+              "name": "Idle 3"
+            },
+            {
+              "group": 0,
+              "category": 5,
+              "no": 0,
+              "name": "Idle 1"
+            },
+            {
+              "group": 0,
+              "category": 5,
+              "no": 2,
+              "name": "Idle 2"
+            },
+            {
+              "group": 0,
+              "category": 5,
+              "no": 4,
+              "name": "Idle 3"
+            },
+            {
+              "group": 0,
+              "category": 5,
+              "no": 6,
+              "name": "Idle 4"
+            },
+            {
+              "group": 0,
+              "category": 5,
+              "no": 8,
+              "name": "Idle 5"
+            },
+            {
+              "group": 0,
+              "category": 5,
+              "no": 10,
+              "name": "Idle 6"
+            },
+            {
+              "group": 0,
+              "category": 5,
+              "no": 12,
+              "name": "Idle 7"
+            },
+            {
+              "group": 0,
+              "category": 5,
+              "no": 14,
+              "name": "Idle 8"
+            },
+            {
+              "group": 0,
+              "category": 5,
+              "no": 16,
+              "name": "Idle 9"
+            },
+            {
+              "group": 0,
+              "category": 5,
+              "no": 18,
+              "name": "Idle 10"
+            },
+            {
+              "group": 0,
+              "category": 5,
+              "no": 20,
+              "name": "Idle 11"
+            },
+            {
+              "group": 0,
+              "category": 5,
+              "no": 22,
+              "name": "Idle 12"
+            },
+            {
+              "group": 0,
+              "category": 5,
+              "no": 24,
+              "name": "Idle 13"
+            },
+            {
+              "group": 0,
+              "category": 5,
+              "no": 26,
+              "name": "Idle 14"
+            },
+            {
+              "group": 0,
+              "category": 6,
+              "no": 0,
+              "name": "Idle"
+            },
+            {
+              "group": 0,
+              "category": 60,
+              "no": 0,
+              "name": "Standing Pose 1"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": "stand",
+          "label": "????",
+          "description": "???????????????",
+          "levels": [
+            {
+              "level": 1,
+              "candidates": [
+                {
+                  "group": 0,
+                  "category": 4,
+                  "no": 0,
+                  "name": "Idle 1"
+                },
+                {
+                  "group": 0,
+                  "category": 4,
+                  "no": 1,
+                  "name": "Idle 2"
+                },
+                {
+                  "group": 0,
+                  "category": 4,
+                  "no": 2,
+                  "name": "Idle 3"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 0,
+                  "name": "Idle 1"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 2,
+                  "name": "Idle 2"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 4,
+                  "name": "Idle 3"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 6,
+                  "name": "Idle 4"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 8,
+                  "name": "Idle 5"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 10,
+                  "name": "Idle 6"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 12,
+                  "name": "Idle 7"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 14,
+                  "name": "Idle 8"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 16,
+                  "name": "Idle 9"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 18,
+                  "name": "Idle 10"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 20,
+                  "name": "Idle 11"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 22,
+                  "name": "Idle 12"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 24,
+                  "name": "Idle 13"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 26,
+                  "name": "Idle 14"
+                },
+                {
+                  "group": 0,
+                  "category": 6,
+                  "no": 0,
+                  "name": "Idle"
+                },
+                {
+                  "group": 0,
+                  "category": 60,
+                  "no": 0,
+                  "name": "Standing Pose 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "talk",
+          "label": "????",
+          "description": "??????????????",
+          "levels": [
+            {
+              "level": 2,
+              "candidates": [
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 1,
+                  "name": "Talking 1"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 3,
+                  "name": "Talking 2"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 5,
+                  "name": "Talking 3"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 7,
+                  "name": "Talking 4"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 9,
+                  "name": "Talking 5"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 11,
+                  "name": "Talking 6"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 13,
+                  "name": "Talking 7"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 15,
+                  "name": "Talking 8"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 17,
+                  "name": "Talking 9"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 19,
+                  "name": "Talking 10"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 21,
+                  "name": "Talking 11"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 23,
+                  "name": "Talking 12"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 25,
+                  "name": "Talking 13"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 27,
+                  "name": "Talking 14"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "move",
+      "label": "??",
+      "description": "?????????????",
+      "cooldown_turns": 3,
+      "levels": [
+        {
+          "level": 2,
+          "candidates": [
+            {
+              "group": 0,
+              "category": 3,
+              "no": 0,
+              "name": "Walking 1"
+            },
+            {
+              "group": 0,
+              "category": 3,
+              "no": 1,
+              "name": "Walking 2"
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "candidates": [
+            {
+              "group": 0,
+              "category": 3,
+              "no": 2,
+              "name": "Running 1"
+            },
+            {
+              "group": 0,
+              "category": 3,
+              "no": 3,
+              "name": "Running 2"
+            },
+            {
+              "group": 0,
+              "category": 3,
+              "no": 4,
+              "name": "Running 3"
+            },
+            {
+              "group": 0,
+              "category": 3,
+              "no": 5,
+              "name": "Running 4"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": "walk",
+          "label": "??",
+          "description": "?????????????",
+          "levels": [
+            {
+              "level": 2,
+              "candidates": [
+                {
+                  "group": 0,
+                  "category": 3,
+                  "no": 0,
+                  "name": "Walking 1"
+                },
+                {
+                  "group": 0,
+                  "category": 3,
+                  "no": 1,
+                  "name": "Walking 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "run",
+          "label": "??",
+          "description": "?????????????",
+          "levels": [
+            {
+              "level": 4,
+              "candidates": [
+                {
+                  "group": 0,
+                  "category": 3,
+                  "no": 2,
+                  "name": "Running 1"
+                },
+                {
+                  "group": 0,
+                  "category": 3,
+                  "no": 3,
+                  "name": "Running 2"
+                },
+                {
+                  "group": 0,
+                  "category": 3,
+                  "no": 4,
+                  "name": "Running 3"
+                },
+                {
+                  "group": 0,
+                  "category": 3,
+                  "no": 5,
+                  "name": "Running 4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "posture",
+      "label": "??",
+      "description": "??????????????????????",
+      "cooldown_turns": 4,
+      "levels": [
+        {
+          "level": 2,
+          "candidates": [
+            {
+              "group": 0,
+              "category": 4,
+              "no": 0,
+              "name": "Idle 1"
+            },
+            {
+              "group": 0,
+              "category": 4,
+              "no": 1,
+              "name": "Idle 2"
+            },
+            {
+              "group": 0,
+              "category": 4,
+              "no": 2,
+              "name": "Idle 3"
+            },
+            {
+              "group": 0,
+              "category": 5,
+              "no": 0,
+              "name": "Idle 1"
+            },
+            {
+              "group": 0,
+              "category": 5,
+              "no": 2,
+              "name": "Idle 2"
+            },
+            {
+              "group": 0,
+              "category": 5,
+              "no": 4,
+              "name": "Idle 3"
+            },
+            {
+              "group": 0,
+              "category": 5,
+              "no": 6,
+              "name": "Idle 4"
+            },
+            {
+              "group": 0,
+              "category": 5,
+              "no": 8,
+              "name": "Idle 5"
+            },
+            {
+              "group": 0,
+              "category": 5,
+              "no": 10,
+              "name": "Idle 6"
+            },
+            {
+              "group": 0,
+              "category": 5,
+              "no": 12,
+              "name": "Idle 7"
+            },
+            {
+              "group": 0,
+              "category": 5,
+              "no": 14,
+              "name": "Idle 8"
+            },
+            {
+              "group": 0,
+              "category": 5,
+              "no": 16,
+              "name": "Idle 9"
+            },
+            {
+              "group": 0,
+              "category": 5,
+              "no": 18,
+              "name": "Idle 10"
+            },
+            {
+              "group": 0,
+              "category": 5,
+              "no": 20,
+              "name": "Idle 11"
+            },
+            {
+              "group": 0,
+              "category": 5,
+              "no": 22,
+              "name": "Idle 12"
+            },
+            {
+              "group": 0,
+              "category": 5,
+              "no": 24,
+              "name": "Idle 13"
+            },
+            {
+              "group": 0,
+              "category": 5,
+              "no": 26,
+              "name": "Idle 14"
+            },
+            {
+              "group": 0,
+              "category": 6,
+              "no": 0,
+              "name": "Idle"
+            },
+            {
+              "group": 0,
+              "category": 60,
+              "no": 0,
+              "name": "Standing Pose 1"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "candidates": [
+            {
+              "group": 0,
+              "category": 8,
+              "no": 3,
+              "name": "Sitting Seiza"
+            },
+            {
+              "group": 0,
+              "category": 8,
+              "no": 8,
+              "name": "Girly Sitting"
+            },
+            {
+              "group": 0,
+              "category": 8,
+              "no": 9,
+              "name": "Onee-san Sitting"
+            },
+            {
+              "group": 0,
+              "category": 10,
+              "no": 17,
+              "name": "Sitting Poolside 1"
+            },
+            {
+              "group": 0,
+              "category": 10,
+              "no": 18,
+              "name": "Sitting Poolside 2"
+            },
+            {
+              "group": 0,
+              "category": 10,
+              "no": 19,
+              "name": "Sitting Poolside 3"
+            },
+            {
+              "group": 0,
+              "category": 8,
+              "no": 0,
+              "name": "Squatting 1"
+            },
+            {
+              "group": 0,
+              "category": 8,
+              "no": 1,
+              "name": "Squatting 2"
+            },
+            {
+              "group": 0,
+              "category": 8,
+              "no": 2,
+              "name": "Squatting 3"
+            },
+            {
+              "group": 0,
+              "category": 12,
+              "no": 0,
+              "name": "About To Turn Over"
+            },
+            {
+              "group": 0,
+              "category": 12,
+              "no": 1,
+              "name": "Turning Over"
+            },
+            {
+              "group": 0,
+              "category": 12,
+              "no": 2,
+              "name": "Laying"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": "stand",
+          "label": "??",
+          "description": "????????????",
+          "levels": [
+            {
+              "level": 2,
+              "candidates": [
+                {
+                  "group": 0,
+                  "category": 4,
+                  "no": 0,
+                  "name": "Idle 1"
+                },
+                {
+                  "group": 0,
+                  "category": 4,
+                  "no": 1,
+                  "name": "Idle 2"
+                },
+                {
+                  "group": 0,
+                  "category": 4,
+                  "no": 2,
+                  "name": "Idle 3"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 0,
+                  "name": "Idle 1"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 2,
+                  "name": "Idle 2"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 4,
+                  "name": "Idle 3"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 6,
+                  "name": "Idle 4"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 8,
+                  "name": "Idle 5"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 10,
+                  "name": "Idle 6"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 12,
+                  "name": "Idle 7"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 14,
+                  "name": "Idle 8"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 16,
+                  "name": "Idle 9"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 18,
+                  "name": "Idle 10"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 20,
+                  "name": "Idle 11"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 22,
+                  "name": "Idle 12"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 24,
+                  "name": "Idle 13"
+                },
+                {
+                  "group": 0,
+                  "category": 5,
+                  "no": 26,
+                  "name": "Idle 14"
+                },
+                {
+                  "group": 0,
+                  "category": 6,
+                  "no": 0,
+                  "name": "Idle"
+                },
+                {
+                  "group": 0,
+                  "category": 60,
+                  "no": 0,
+                  "name": "Standing Pose 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "sit",
+          "label": "??",
+          "description": "????????",
+          "levels": [
+            {
+              "level": 3,
+              "candidates": [
+                {
+                  "group": 0,
+                  "category": 8,
+                  "no": 3,
+                  "name": "Sitting Seiza"
+                },
+                {
+                  "group": 0,
+                  "category": 8,
+                  "no": 8,
+                  "name": "Girly Sitting"
+                },
+                {
+                  "group": 0,
+                  "category": 8,
+                  "no": 9,
+                  "name": "Onee-san Sitting"
+                },
+                {
+                  "group": 0,
+                  "category": 10,
+                  "no": 17,
+                  "name": "Sitting Poolside 1"
+                },
+                {
+                  "group": 0,
+                  "category": 10,
+                  "no": 18,
+                  "name": "Sitting Poolside 2"
+                },
+                {
+                  "group": 0,
+                  "category": 10,
+                  "no": 19,
+                  "name": "Sitting Poolside 3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "seiza",
+          "label": "??",
+          "description": "????????",
+          "levels": [
+            {
+              "level": 3,
+              "candidates": [
+                {
+                  "group": 0,
+                  "category": 8,
+                  "no": 3,
+                  "name": "Sitting Seiza"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "girly_sit",
+          "label": "????",
+          "description": "????????????",
+          "levels": [
+            {
+              "level": 3,
+              "candidates": [
+                {
+                  "group": 0,
+                  "category": 8,
+                  "no": 8,
+                  "name": "Girly Sitting"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "oneesan_sit",
+          "label": "????",
+          "description": "?????????",
+          "levels": [
+            {
+              "level": 3,
+              "candidates": [
+                {
+                  "group": 0,
+                  "category": 8,
+                  "no": 9,
+                  "name": "Onee-san Sitting"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "poolside_sit",
+          "label": "????",
+          "description": "???????????",
+          "levels": [
+            {
+              "level": 3,
+              "candidates": [
+                {
+                  "group": 0,
+                  "category": 10,
+                  "no": 17,
+                  "name": "Sitting Poolside 1"
+                },
+                {
+                  "group": 0,
+                  "category": 10,
+                  "no": 18,
+                  "name": "Sitting Poolside 2"
+                },
+                {
+                  "group": 0,
+                  "category": 10,
+                  "no": 19,
+                  "name": "Sitting Poolside 3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "squat",
+          "label": "??",
+          "description": "?????????????",
+          "levels": [
+            {
+              "level": 3,
+              "candidates": [
+                {
+                  "group": 0,
+                  "category": 8,
+                  "no": 0,
+                  "name": "Squatting 1"
+                },
+                {
+                  "group": 0,
+                  "category": 8,
+                  "no": 1,
+                  "name": "Squatting 2"
+                },
+                {
+                  "group": 0,
+                  "category": 8,
+                  "no": 2,
+                  "name": "Squatting 3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "lie",
+          "label": "??",
+          "description": "?????????",
+          "levels": [
+            {
+              "level": 3,
+              "candidates": [
+                {
+                  "group": 0,
+                  "category": 12,
+                  "no": 0,
+                  "name": "About To Turn Over"
+                },
+                {
+                  "group": 0,
+                  "category": 12,
+                  "no": 1,
+                  "name": "Turning Over"
+                },
+                {
+                  "group": 0,
+                  "category": 12,
+                  "no": 2,
+                  "name": "Laying"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "greet",
+      "label": "??",
+      "description": "????????????",
+      "cooldown_turns": 2,
+      "levels": [
+        {
+          "level": 2,
+          "candidates": [
+            {
+              "group": 0,
+              "category": 10,
+              "no": 3,
+              "name": "Waving"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": "wave",
+          "label": "??",
+          "description": "?????????????",
+          "levels": [
+            {
+              "level": 2,
+              "candidates": [
+                {
+                  "group": 0,
+                  "category": 10,
+                  "no": 3,
+                  "name": "Waving"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "agree",
+      "label": "??",
+      "description": "????????????",
+      "cooldown_turns": 1,
+      "levels": [],
+      "variants": []
+    },
+    {
+      "id": "deny",
+      "label": "??",
+      "description": "?????????????",
+      "cooldown_turns": 1,
+      "levels": [],
+      "variants": []
+    },
+    {
+      "id": "happy",
+      "label": "??",
+      "description": "????????????",
+      "cooldown_turns": 2,
+      "levels": [
+        {
+          "level": 1,
+          "candidates": [
+            {
+              "group": 0,
+              "category": 2,
+              "no": 0,
+              "name": "Happy 1"
+            },
+            {
+              "group": 0,
+              "category": 2,
+              "no": 1,
+              "name": "Happy 2"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "candidates": [
+            {
+              "group": 0,
+              "category": 2,
+              "no": 2,
+              "name": "Happy 3"
+            },
+            {
+              "group": 0,
+              "category": 2,
+              "no": 3,
+              "name": "Happy 4"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "candidates": [
+            {
+              "group": 0,
+              "category": 2,
+              "no": 4,
+              "name": "Happy 5"
+            },
+            {
+              "group": 0,
+              "category": 2,
+              "no": 5,
+              "name": "Happy 6"
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "candidates": [
+            {
+              "group": 0,
+              "category": 2,
+              "no": 6,
+              "name": "Happy 7"
+            },
+            {
+              "group": 0,
+              "category": 2,
+              "no": 7,
+              "name": "Happy 8"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "candidates": [
+            {
+              "group": 0,
+              "category": 2,
+              "no": 8,
+              "name": "Happy 9"
+            },
+            {
+              "group": 0,
+              "category": 2,
+              "no": 9,
+              "name": "Happy 10"
+            }
+          ]
+        }
+      ],
+      "variants": []
+    },
+    {
+      "id": "shy",
+      "label": "??",
+      "description": "???????????????????",
+      "cooldown_turns": 2,
+      "levels": [
+        {
+          "level": 1,
+          "candidates": [
+            {
+              "group": 0,
+              "category": 2,
+              "no": 30,
+              "name": "Surprise/Shame/Etc. 1"
+            },
+            {
+              "group": 0,
+              "category": 2,
+              "no": 31,
+              "name": "Surprise/Shame/Etc. 2"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "candidates": [
+            {
+              "group": 0,
+              "category": 11,
+              "no": 0,
+              "name": "Embarrassed 1"
+            },
+            {
+              "group": 0,
+              "category": 11,
+              "no": 1,
+              "name": "Embarrassed 2"
+            },
+            {
+              "group": 0,
+              "category": 11,
+              "no": 2,
+              "name": "Embarrassed 3"
+            },
+            {
+              "group": 0,
+              "category": 2,
+              "no": 32,
+              "name": "Surprise/Shame/Etc. 3"
+            },
+            {
+              "group": 0,
+              "category": 2,
+              "no": 33,
+              "name": "Surprise/Shame/Etc. 4"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "candidates": [
+            {
+              "group": 0,
+              "category": 11,
+              "no": 3,
+              "name": "Hiding Face From View"
+            },
+            {
+              "group": 0,
+              "category": 11,
+              "no": 4,
+              "name": "Hiding Chest From Embarrassment"
+            },
+            {
+              "group": 0,
+              "category": 11,
+              "no": 11,
+              "name": "Covering Self Up"
+            },
+            {
+              "group": 0,
+              "category": 11,
+              "no": 12,
+              "name": "Covering Self Up Loop"
+            },
+            {
+              "group": 0,
+              "category": 2,
+              "no": 34,
+              "name": "Surprise/Shame/Etc. 5"
+            },
+            {
+              "group": 0,
+              "category": 2,
+              "no": 35,
+              "name": "Surprise/Shame/Etc. 6"
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "candidates": [
+            {
+              "group": 0,
+              "category": 11,
+              "no": 5,
+              "name": "Covering Chest From Touch 1"
+            },
+            {
+              "group": 0,
+              "category": 11,
+              "no": 6,
+              "name": "Covering Chest From Touch 2"
+            },
+            {
+              "group": 0,
+              "category": 11,
+              "no": 7,
+              "name": "Covering Chest From Touch 3"
+            },
+            {
+              "group": 0,
+              "category": 11,
+              "no": 8,
+              "name": "Hating Face Being Touched"
+            },
+            {
+              "group": 0,
+              "category": 11,
+              "no": 9,
+              "name": "Embarrassed From Hand Touch"
+            },
+            {
+              "group": 0,
+              "category": 11,
+              "no": 10,
+              "name": "Hating Hand Being Touched"
+            },
+            {
+              "group": 0,
+              "category": 2,
+              "no": 36,
+              "name": "Surprise/Shame/Etc. 7"
+            },
+            {
+              "group": 0,
+              "category": 2,
+              "no": 37,
+              "name": "Surprise/Shame/Etc. 8"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "candidates": [
+            {
+              "group": 0,
+              "category": 2,
+              "no": 38,
+              "name": "Surprise/Shame/Etc. 9"
+            },
+            {
+              "group": 0,
+              "category": 2,
+              "no": 39,
+              "name": "Surprise/Shame/Etc. 10"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": "embarrassed",
+          "label": "??/??",
+          "description": "???????????????",
+          "levels": [
+            {
+              "level": 2,
+              "candidates": [
+                {
+                  "group": 0,
+                  "category": 11,
+                  "no": 0,
+                  "name": "Embarrassed 1"
+                },
+                {
+                  "group": 0,
+                  "category": 11,
+                  "no": 1,
+                  "name": "Embarrassed 2"
+                },
+                {
+                  "group": 0,
+                  "category": 11,
+                  "no": 2,
+                  "name": "Embarrassed 3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "hide_face",
+          "label": "??",
+          "description": "???????????",
+          "levels": [
+            {
+              "level": 3,
+              "candidates": [
+                {
+                  "group": 0,
+                  "category": 11,
+                  "no": 3,
+                  "name": "Hiding Face From View"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "cover_self",
+          "label": "????",
+          "description": "???????????",
+          "levels": [
+            {
+              "level": 3,
+              "candidates": [
+                {
+                  "group": 0,
+                  "category": 11,
+                  "no": 4,
+                  "name": "Hiding Chest From Embarrassment"
+                },
+                {
+                  "group": 0,
+                  "category": 11,
+                  "no": 11,
+                  "name": "Covering Self Up"
+                },
+                {
+                  "group": 0,
+                  "category": 11,
+                  "no": 12,
+                  "name": "Covering Self Up Loop"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reject_touch",
+          "label": "????",
+          "description": "??????????????",
+          "levels": [
+            {
+              "level": 4,
+              "candidates": [
+                {
+                  "group": 0,
+                  "category": 11,
+                  "no": 5,
+                  "name": "Covering Chest From Touch 1"
+                },
+                {
+                  "group": 0,
+                  "category": 11,
+                  "no": 6,
+                  "name": "Covering Chest From Touch 2"
+                },
+                {
+                  "group": 0,
+                  "category": 11,
+                  "no": 7,
+                  "name": "Covering Chest From Touch 3"
+                },
+                {
+                  "group": 0,
+                  "category": 11,
+                  "no": 8,
+                  "name": "Hating Face Being Touched"
+                },
+                {
+                  "group": 0,
+                  "category": 11,
+                  "no": 9,
+                  "name": "Embarrassed From Hand Touch"
+                },
+                {
+                  "group": 0,
+                  "category": 11,
+                  "no": 10,
+                  "name": "Hating Hand Being Touched"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sad",
+      "label": "??",
+      "description": "??????????????????",
+      "cooldown_turns": 2,
+      "levels": [
+        {
+          "level": 1,
+          "candidates": [
+            {
+              "group": 0,
+              "category": 2,
+              "no": 20,
+              "name": "Sad 1"
+            },
+            {
+              "group": 0,
+              "category": 2,
+              "no": 21,
+              "name": "Sad 2"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "candidates": [
+            {
+              "group": 0,
+              "category": 2,
+              "no": 22,
+              "name": "Sad 3"
+            },
+            {
+              "group": 0,
+              "category": 2,
+              "no": 23,
+              "name": "Sad 4"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "candidates": [
+            {
+              "group": 0,
+              "category": 2,
+              "no": 24,
+              "name": "Sad 5"
+            },
+            {
+              "group": 0,
+              "category": 2,
+              "no": 25,
+              "name": "Sad 6"
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "candidates": [
+            {
+              "group": 0,
+              "category": 2,
+              "no": 26,
+              "name": "Sad 7"
+            },
+            {
+              "group": 0,
+              "category": 2,
+              "no": 27,
+              "name": "Sad 8"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "candidates": [
+            {
+              "group": 0,
+              "category": 2,
+              "no": 28,
+              "name": "Sad 9"
+            },
+            {
+              "group": 0,
+              "category": 2,
+              "no": 29,
+              "name": "Sad 10"
+            }
+          ]
+        }
+      ],
+      "variants": []
+    },
+    {
+      "id": "angry",
+      "label": "??",
+      "description": "?????????????????",
+      "cooldown_turns": 2,
+      "levels": [
+        {
+          "level": 1,
+          "candidates": [
+            {
+              "group": 0,
+              "category": 2,
+              "no": 10,
+              "name": "Angry 1"
+            },
+            {
+              "group": 0,
+              "category": 2,
+              "no": 11,
+              "name": "Angry 2"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "candidates": [
+            {
+              "group": 0,
+              "category": 2,
+              "no": 12,
+              "name": "Angry 3"
+            },
+            {
+              "group": 0,
+              "category": 2,
+              "no": 13,
+              "name": "Angry 4"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "candidates": [
+            {
+              "group": 0,
+              "category": 2,
+              "no": 14,
+              "name": "Angry 5"
+            },
+            {
+              "group": 0,
+              "category": 2,
+              "no": 15,
+              "name": "Angry 6"
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "candidates": [
+            {
+              "group": 0,
+              "category": 2,
+              "no": 16,
+              "name": "Angry 7"
+            },
+            {
+              "group": 0,
+              "category": 2,
+              "no": 17,
+              "name": "Angry 8"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "candidates": [
+            {
+              "group": 0,
+              "category": 2,
+              "no": 18,
+              "name": "Angry 9"
+            },
+            {
+              "group": 0,
+              "category": 2,
+              "no": 19,
+              "name": "Angry 10"
+            }
+          ]
+        }
+      ],
+      "variants": []
+    },
+    {
+      "id": "surprised",
+      "label": "??",
+      "description": "??????????????",
+      "cooldown_turns": 2,
+      "levels": [
+        {
+          "level": 1,
+          "candidates": [
+            {
+              "group": 0,
+              "category": 2,
+              "no": 30,
+              "name": "Surprise/Shame/Etc. 1"
+            },
+            {
+              "group": 0,
+              "category": 2,
+              "no": 31,
+              "name": "Surprise/Shame/Etc. 2"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "candidates": [
+            {
+              "group": 0,
+              "category": 2,
+              "no": 32,
+              "name": "Surprise/Shame/Etc. 3"
+            },
+            {
+              "group": 0,
+              "category": 2,
+              "no": 33,
+              "name": "Surprise/Shame/Etc. 4"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "candidates": [
+            {
+              "group": 0,
+              "category": 2,
+              "no": 34,
+              "name": "Surprise/Shame/Etc. 5"
+            },
+            {
+              "group": 0,
+              "category": 2,
+              "no": 35,
+              "name": "Surprise/Shame/Etc. 6"
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "candidates": [
+            {
+              "group": 0,
+              "category": 2,
+              "no": 36,
+              "name": "Surprise/Shame/Etc. 7"
+            },
+            {
+              "group": 0,
+              "category": 2,
+              "no": 37,
+              "name": "Surprise/Shame/Etc. 8"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "candidates": [
+            {
+              "group": 0,
+              "category": 2,
+              "no": 38,
+              "name": "Surprise/Shame/Etc. 9"
+            },
+            {
+              "group": 0,
+              "category": 2,
+              "no": 39,
+              "name": "Surprise/Shame/Etc. 10"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": "shame",
+          "label": "??/??",
+          "description": "Surprise/Shame/Etc. ????????????",
+          "levels": [
+            {
+              "level": 1,
+              "candidates": [
+                {
+                  "group": 0,
+                  "category": 2,
+                  "no": 30,
+                  "name": "Surprise/Shame/Etc. 1"
+                },
+                {
+                  "group": 0,
+                  "category": 2,
+                  "no": 31,
+                  "name": "Surprise/Shame/Etc. 2"
+                }
+              ]
+            },
+            {
+              "level": 2,
+              "candidates": [
+                {
+                  "group": 0,
+                  "category": 2,
+                  "no": 32,
+                  "name": "Surprise/Shame/Etc. 3"
+                },
+                {
+                  "group": 0,
+                  "category": 2,
+                  "no": 33,
+                  "name": "Surprise/Shame/Etc. 4"
+                }
+              ]
+            },
+            {
+              "level": 3,
+              "candidates": [
+                {
+                  "group": 0,
+                  "category": 2,
+                  "no": 34,
+                  "name": "Surprise/Shame/Etc. 5"
+                },
+                {
+                  "group": 0,
+                  "category": 2,
+                  "no": 35,
+                  "name": "Surprise/Shame/Etc. 6"
+                }
+              ]
+            },
+            {
+              "level": 4,
+              "candidates": [
+                {
+                  "group": 0,
+                  "category": 2,
+                  "no": 36,
+                  "name": "Surprise/Shame/Etc. 7"
+                },
+                {
+                  "group": 0,
+                  "category": 2,
+                  "no": 37,
+                  "name": "Surprise/Shame/Etc. 8"
+                }
+              ]
+            },
+            {
+              "level": 5,
+              "candidates": [
+                {
+                  "group": 0,
+                  "category": 2,
+                  "no": 38,
+                  "name": "Surprise/Shame/Etc. 9"
+                },
+                {
+                  "group": 0,
+                  "category": 2,
+                  "no": 39,
+                  "name": "Surprise/Shame/Etc. 10"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "think",
+      "label": "??",
+      "description": "???????????????????/????????",
+      "cooldown_turns": 2,
+      "levels": [
+        {
+          "level": 2,
+          "candidates": [
+            {
+              "group": 0,
+              "category": 7,
+              "no": 5,
+              "name": "Studying"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": "study",
+          "label": "??",
+          "description": "????????????",
+          "levels": [
+            {
+              "level": 2,
+              "candidates": [
+                {
+                  "group": 0,
+                  "category": 7,
+                  "no": 5,
+                  "name": "Studying"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tired",
+      "label": "??",
+      "description": "?????????????????",
+      "cooldown_turns": 3,
+      "levels": [
+        {
+          "level": 2,
+          "candidates": [
+            {
+              "group": 0,
+              "category": 12,
+              "no": 3,
+              "name": "Sleeping At Desk"
+            },
+            {
+              "group": 0,
+              "category": 12,
+              "no": 4,
+              "name": "Sleeping In Chair"
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "candidates": [
+            {
+              "group": 0,
+              "category": 12,
+              "no": 7,
+              "name": "Sleeping Together 1"
+            },
+            {
+              "group": 0,
+              "category": 12,
+              "no": 8,
+              "name": "Sleeping Together 2"
+            },
+            {
+              "group": 0,
+              "category": 12,
+              "no": 9,
+              "name": "Sleeping Together 3"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": "sleep",
+          "label": "??",
+          "description": "?????????????",
+          "levels": [
+            {
+              "level": 3,
+              "candidates": [
+                {
+                  "group": 0,
+                  "category": 12,
+                  "no": 3,
+                  "name": "Sleeping At Desk"
+                },
+                {
+                  "group": 0,
+                  "category": 12,
+                  "no": 4,
+                  "name": "Sleeping In Chair"
+                },
+                {
+                  "group": 0,
+                  "category": 12,
+                  "no": 7,
+                  "name": "Sleeping Together 1"
+                },
+                {
+                  "group": 0,
+                  "category": 12,
+                  "no": 8,
+                  "name": "Sleeping Together 2"
+                },
+                {
+                  "group": 0,
+                  "category": 12,
+                  "no": 9,
+                  "name": "Sleeping Together 3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "activity",
+      "label": "????",
+      "description": "??????????????????",
+      "cooldown_turns": 3,
+      "levels": [
+        {
+          "level": 2,
+          "candidates": [
+            {
+              "group": 0,
+              "category": 9,
+              "no": 0,
+              "name": "Eating A1"
+            },
+            {
+              "group": 0,
+              "category": 9,
+              "no": 1,
+              "name": "Eating A2"
+            },
+            {
+              "group": 0,
+              "category": 9,
+              "no": 2,
+              "name": "Eating A3"
+            },
+            {
+              "group": 0,
+              "category": 9,
+              "no": 3,
+              "name": "Eating B1"
+            },
+            {
+              "group": 0,
+              "category": 9,
+              "no": 4,
+              "name": "Eating B2"
+            },
+            {
+              "group": 0,
+              "category": 9,
+              "no": 5,
+              "name": "Eating C1"
+            },
+            {
+              "group": 0,
+              "category": 9,
+              "no": 6,
+              "name": "Eating C2"
+            },
+            {
+              "group": 0,
+              "category": 7,
+              "no": 12,
+              "name": "Drinking"
+            },
+            {
+              "group": 0,
+              "category": 7,
+              "no": 7,
+              "name": "Drawing"
+            },
+            {
+              "group": 0,
+              "category": 7,
+              "no": 10,
+              "name": "Listening To Music"
+            },
+            {
+              "group": 0,
+              "category": 7,
+              "no": 5,
+              "name": "Studying"
+            }
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": "eat",
+          "label": "???",
+          "description": "???????",
+          "levels": [
+            {
+              "level": 2,
+              "candidates": [
+                {
+                  "group": 0,
+                  "category": 9,
+                  "no": 0,
+                  "name": "Eating A1"
+                },
+                {
+                  "group": 0,
+                  "category": 9,
+                  "no": 1,
+                  "name": "Eating A2"
+                },
+                {
+                  "group": 0,
+                  "category": 9,
+                  "no": 2,
+                  "name": "Eating A3"
+                },
+                {
+                  "group": 0,
+                  "category": 9,
+                  "no": 3,
+                  "name": "Eating B1"
+                },
+                {
+                  "group": 0,
+                  "category": 9,
+                  "no": 4,
+                  "name": "Eating B2"
+                },
+                {
+                  "group": 0,
+                  "category": 9,
+                  "no": 5,
+                  "name": "Eating C1"
+                },
+                {
+                  "group": 0,
+                  "category": 9,
+                  "no": 6,
+                  "name": "Eating C2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "drink",
+          "label": "???",
+          "description": "???????",
+          "levels": [
+            {
+              "level": 2,
+              "candidates": [
+                {
+                  "group": 0,
+                  "category": 7,
+                  "no": 12,
+                  "name": "Drinking"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "draw",
+          "label": "??",
+          "description": "?????????",
+          "levels": [
+            {
+              "level": 2,
+              "candidates": [
+                {
+                  "group": 0,
+                  "category": 7,
+                  "no": 7,
+                  "name": "Drawing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "listen_music",
+          "label": "???",
+          "description": "?????????????",
+          "levels": [
+            {
+              "level": 2,
+              "candidates": [
+                {
+                  "group": 0,
+                  "category": 7,
+                  "no": 10,
+                  "name": "Listening To Music"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "study",
+          "label": "??",
+          "description": "????????????",
+          "levels": [
+            {
+              "level": 2,
+              "candidates": [
+                {
+                  "group": 0,
+                  "category": 7,
+                  "no": 5,
+                  "name": "Studying"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

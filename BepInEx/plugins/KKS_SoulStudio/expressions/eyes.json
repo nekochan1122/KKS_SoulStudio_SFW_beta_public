@@ -1,0 +1,26 @@
+{
+  "description": "KKS eye patterns 0-40. Each entry is just (tag, pattern-index). 开合度由 LLM 每轮通过 eyes_open (0..1) 独立给出，本文件不预设。",
+  "entries": [
+    { "tag": "neutral",        "index":  0, "comment": "默认" },
+    { "tag": "closed",         "index":  1, "comment": "闭眼" },
+    { "tag": "happy",          "index":  2, "comment": "开心/笑" },
+    { "tag": "happy_c",        "index":  3, "comment": "闭眼笑" },
+    { "tag": "smile",          "index":  4, "comment": "微笑" },
+    { "tag": "wink_l",         "index":  5, "comment": "左眨" },
+    { "tag": "wink_r",         "index":  6, "comment": "右眨" },
+    { "tag": "pain",           "index":  7, "tears": 1, "comment": "痛苦（轻微泪光）" },
+    { "tag": "awkward",        "index":  8, "face_blush": 1, "comment": "尴尬（轻微脸红）" },
+    { "tag": "angry",          "index":  9, "comment": "生气" },
+    { "tag": "serious",        "index": 10, "comment": "认真/严肃" },
+    { "tag": "bored",          "index": 11, "comment": "无聊" },
+    { "tag": "awkward_c",      "index": 12, "face_blush": 2, "comment": "非常尴尬（脸红明显）" },
+    { "tag": "reject",         "index": 13, "comment": "讨厌/拒绝" },
+    { "tag": "thinking",       "index": 14, "comment": "思考" },
+    { "tag": "sad",            "index": 15, "comment": "伤心" },
+    { "tag": "cry",            "index": 16, "tears": 2, "comment": "哭泣（眼泪）" },
+    { "tag": "anxious",        "index": 17, "comment": "着急/急切" },
+    { "tag": "disappointment", "index": 18, "comment": "失望" },
+    { "tag": "worried",        "index": 19, "comment": "担心" },
+    { "tag": "proud",          "index": 20, "comment": "得意" }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "description": "KKS brow patterns 0-16 (17 patterns). Click 重载表情 after edits. Tags here become the enum the LLM picks from in set_expression.",
+  "entries": [
+    { "tag": "neutral",        "index":  0, "comment": "默认/中性" },
+    { "tag": "angry",          "index":  1, "comment": "生气" },
+    { "tag": "worried",        "index":  2, "comment": "担忧/不安" },
+    { "tag": "bored",          "index":  3, "comment": "无聊" },
+    { "tag": "puzzled_l",      "index":  4, "comment": "困惑（左眼）" },
+    { "tag": "puzzled_r",      "index":  5, "comment": "困惑（右眼）" },
+    { "tag": "thinking_l",     "index":  6, "comment": "思考-左" },
+    { "tag": "thinking_r",     "index":  7, "comment": "思考-右" },
+    { "tag": "angry_l2",       "index":  8, "comment": "非常生气-左" },
+    { "tag": "angry_r2",       "index":  9, "comment": "非常生气-右" },
+    { "tag": "serious",        "index": 10, "comment": "严肃" },
+    { "tag": "anxiety",        "index": 11, "comment": "不安" },
+    { "tag": "surprised",      "index": 12, "comment": "吃惊" },
+    { "tag": "disappointment", "index": 13, "comment": "失望" },
+    { "tag": "proud",          "index": 14, "comment": "得意" },
+    { "tag": "wink_l",         "index": 15, "comment": "眨眼-左" },
+    { "tag": "wink_r",         "index": 16, "comment": "眨眼-右" }
+  ]
+}
